@@ -14,7 +14,7 @@
 | --- | --- | --- | --- |
 | 염하늘 | [everchloe97](https://github.com/everchloe97) | star57009@khu.ac.kr | https://velog.io/@everchloe97 |
 | 김용민 | [ymink716](https://github.com/ymink716) | ymink716@gmail.com | https://velog.io/@calm0_0 |
-| 김태영 | [leokim1178](https://github.com/leokim1178) | leo950906@gmail.com | https://story0tae.tistory.com/ |
+| 김태영 | [leokim1178](https://github.com/leokim1178) | leo950906@gmail.com | https://velog.io/@leo3179 |
 | 박신영 | [ParkShinyeong](https://github.com/ParkShinyeong) | syngh503@gmail.com | [신영의 notion](https://sudsy-action-667.notion.site/5ed77b24085f42b8bd1c9e5c0b37d25d) |
 | 김지유 | [kgeeeu](https://github.com/scvgood287) | kgeeeu@gmail.com | https://velog.io/@kgeeeu |
 
